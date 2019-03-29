@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanio_fuente">30sp</dimen>
+    <dimen name="anchocajas">110dp</dimen>
+    <dimen name="altocajas">90dp</dimen>
+    <dimen name="dimesionescajas">20sp</dimen>
+    <dimen name="textocajas">30sp</dimen>
+    <dimen name="textocajass">20sp</dimen>
+</resources>
